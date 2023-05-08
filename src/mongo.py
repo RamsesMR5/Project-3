@@ -5,7 +5,7 @@ import pandas as pd
 
 
 
-def connect_mongo(database, collection):
+def mongo(database, collection):
     client = MongoClient("localhost:27017")
     db = client[database]
     c = db.get_collection(collection)
@@ -14,7 +14,7 @@ def connect_mongo(database, collection):
 
 
 
-def get_tech_startups (raised_ammount, year):
+def startups (raised_ammount, year):
     
     tech_startup = MongoClient("localhost:27017")["ironhack"].companies.aggregate([
         {
@@ -47,6 +47,7 @@ def get_tech_startups (raised_ammount, year):
                 },
                 "category_code": {
                     "$in": [
+                        "games_video",
                         "analytics",
                         "biotech",
                         "cleantech",
@@ -83,20 +84,19 @@ def get_tech_startups (raised_ammount, year):
         }
     ])
     ret = list(tech_startup)
-    print("Query returned ",len(ret), " companies.")
+    print(len(ret), " companies.")
     return ret
 
 
 
 
-def get_design_companies ():
+def design ():
    
     design_companies = MongoClient("localhost:27017")["ironhack"].companies.aggregate([
         {
             "$match": {
                 "category_code": {
                     "$in": [
-                        "advertising",
                         "design",
                         "fashion",
                         "photo_video"
@@ -113,5 +113,5 @@ def get_design_companies ():
         }
     ])
     ret = list(design_companies)
-    print("Query returned ",len(ret), " companies.")
+    print(len(ret), " companies.")
     return ret
