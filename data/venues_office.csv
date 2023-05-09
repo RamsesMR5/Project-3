@@ -1,0 +1,64 @@
+,name,distance,latitude,longitude,category_id,category_name,group
+0,San Francisco International Airport (SFO),17802,37.616581,-122.386689,19040,International Airport,Airports
+1,Oakland International Airport (OAK),19405,37.712395,-122.213323,19040,International Airport,Airports
+1,Chinese American International School,241,37.775313,-122.422104,12058,Elementary School,Schools
+2,San Francisco Unified School District,543,37.779237,-122.42205,12058,Elementary School,Schools
+3,San Francisco Friends School,729,37.76897,-122.42302,12058,Elementary School,Schools
+4,John Muir Elementary School,799,37.773721,-122.428819,12058,Elementary School,Schools
+5,Bessie Carmichael Elementary School,1156,37.776344,-122.406468,12058,Elementary School,Schools
+6,Rosa Parks Elementary School,1279,37.783017,-122.429871,12058,Elementary School,Schools
+7,Mission Dolores,1320,37.764382,-122.427478,12058,Elementary School,Schools
+8,Creative Arts Charter School,1565,37.779701,-122.436054,12058,Elementary School,Schools
+9,Sanchez Elementary School,1596,37.76353,-122.430509,12058,Elementary School,Schools
+10,McKinley Elementary School,1700,37.766996,-122.436448,12058,Elementary School,Schools
+11,Pacific Primary School,1951,37.775611,-122.441688,12058,Elementary School,Schools
+12,Cathedral School For Boys,1964,37.792179,-122.413854,12058,Elementary School,Schools
+13,George R Moscone Elementary School,2088,37.756468,-122.412606,12058,Elementary School,Schools
+14,Live Oak School,2169,37.763509,-122.399117,12058,Elementary School,Schools
+15,Cesar Chavez Elementary School,2238,37.754917,-122.414951,12058,Elementary School,Schools
+16,William L Cobb Dr Elementary School,2246,37.787807,-122.439401,12058,Elementary School,Schools
+17,Harvey Milk Civil Rights Academy,2284,37.759054,-122.436479,12058,Elementary School,Schools
+18,Chinese Immersion School at De Avila,2307,37.769853,-122.444357,12058,Elementary School,Schools
+19,Edwin and Anita Lee Newcomer School,2573,37.794818,-122.404116,12058,Elementary School,Schools
+20,Daniel Webster Elementary SCHL,2619,37.760587,-122.395863,12058,Elementary School,Schools
+21,Jean Parker Elementary School,2631,37.797687,-122.411024,12058,Elementary School,Schools
+22,Town School For Boys,2635,37.791915,-122.440361,12058,Elementary School,Schools
+23,Sherman Elementary School,2637,37.797831,-122.426232,12058,Elementary School,Schools
+24,New Traditions Elementary School,2719,37.774006,-122.450264,12058,Elementary School,Schools
+0,Sunset Elementary School,7514,37.7509,-122.499682,12058,Elementary School,Schools
+0,Starbucks,257,37.777222,-122.41935,13035,Coffee Shop,Starbucks
+4,Starbucks,305,37.777088,-122.417264,13035,Coffee Shop,Starbucks
+2,Starbucks,1251,37.766862,-122.409564,13035,Coffee Shop,Starbucks
+1,Starbucks,1283,37.785916,-122.421011,13035,Coffee Shop,Starbucks
+3,Starbucks,1459,37.784117,-122.407356,13035,Coffee Shop,Starbucks
+5,Starbucks,1852,37.789098,-122.408438,13035,Coffee Shop,Starbucks
+9,Starbucks,2038,37.788569,-122.434572,13035,Coffee Shop,Starbucks
+7,Starbucks,2047,37.761007,-122.434723,13035,Coffee Shop,Starbucks
+6,Starbucks,2392,37.767121,-122.393738,13035,Coffee Shop,Starbucks
+8,Starbucks,2705,37.788268,-122.393621,13035,Coffee Shop,Starbucks
+1,Golden Era Vegan Restaurant,754,37.781213,-122.416719,13072,Asian Restaurant,Vegan
+0,Ike's Sandwiches,1138,37.785195,-122.41975,13068,American Restaurant,Vegan
+2,Gracias Madre,1491,37.761556,-122.419141,13303,Mexican Restaurant,Vegan
+8,The Thonglor,1576,37.787281,-122.41041,13072,Asian Restaurant,Vegan
+7,Mixt,1839,37.7584,-122.421105,13068,American Restaurant,Vegan
+9,Kasa Indian Eatery,1960,37.76085,-122.433074,13199,Indian Restaurant,Vegan
+4,Udupi Palace,2020,37.756655,-122.420858,13199,Indian Restaurant,Vegan
+3,Sweetgreen,2283,37.787275,-122.398509,13065,Restaurant,Vegan
+5,Beloved Cafe,2522,37.752329,-122.419313,13035,Coffee Shop,Vegan
+6,Papalote Mexican Grill,2553,37.751911,-122.420936,13145,Fast Food Restaurant,Vegan
+10,The Preppy Puppy,310,37.776755,-122.422046,11134,Pet Grooming Service,Dobby
+1,The Dog Barber,727,37.770428,-122.424897,11134,Pet Grooming Service,Dobby
+0,Wag Hotels San Francisco,822,37.768475,-122.414103,11134,Pet Grooming Service,Dobby
+3,Tefani & So. Dogcare,851,37.772928,-122.410137,11134,Pet Grooming Service,Dobby
+11,San Francisco Pet Grooming,1011,37.771439,-122.430046,11134,Pet Grooming Service,Dobby
+2,Animal House,1051,37.771016,-122.430451,11134,Pet Grooming Service,Dobby
+12,Bernie's Grooming,1061,37.768602,-122.410312,11134,Pet Grooming Service,Dobby
+4,Bernie's Grooming,1068,37.766882,-122.412719,11134,Pet Grooming Service,Dobby
+5,Little Ark Grooming Shop,1213,37.767823,-122.429904,11134,Pet Grooming Service,Dobby
+13,"SF Hound Lounge - Dog Daycare, Boarding, Professional Grooming & Training",1513,37.762833,-122.411405,11134,Pet Grooming Service,Dobby
+6,Doggie Day Spaw,1541,37.77886,-122.402602,11134,Pet Grooming Service,Dobby
+14,Moulin Pooch San Francisco,1609,37.768731,-122.435977,11134,Pet Grooming Service,Dobby
+7,SF Puppy Love,1674,37.779739,-122.401363,11134,Pet Grooming Service,Dobby
+8,Tilt Pet Spa,1689,37.776551,-122.438376,11134,Pet Grooming Service,Dobby
+9,Russian Hill Dog Grooming Express,1829,37.787275,-122.433134,11134,Pet Grooming Service,Dobby
+1,Chase Center Stadium,2912,37.767924,-122.387478,10051,Stadium,basket_stadium
